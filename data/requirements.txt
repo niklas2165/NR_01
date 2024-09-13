@@ -1,7 +1,0 @@
-seaborn
-pandas
-altair
-matplotlib
-numpy
-streamlit
-scipy
